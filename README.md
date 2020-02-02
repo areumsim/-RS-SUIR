@@ -2,22 +2,6 @@
 Title : Unifying user-based and item-based collaborative filtering approaches by similarity fusion
 
 
----
-title: "Templete"
-author: by Stoney
-date: '`r paste0(Sys.Date())`' # current time
-output:
-  html_document:
-    df_print: paged # data frame printing (default, kable, tibble, paged)
-    theme: paper # from Bootswatch library
-    toc: TRUE # table of contents
-    toc_float: TRUE
-    toc_depth: 3 # depth of headers
----
-
-
-
-
 <style type="text/css">
 .main-container {
   max-width: 1000px;
@@ -89,10 +73,6 @@ Journal: SIGIR(Special Interest Group on Information Retrieval) </font>
 
 # Topic
 + Recommendation System, (collaborative filtering)
-  - high-dimensional
-  
-1. aaa
-2. bbb
 
 <br>
 
@@ -108,12 +88,15 @@ Journal: SIGIR(Special Interest Group on Information Retrieval) </font>
 
 # Proposed method
 + SUIR(Similar User Item ratings) : 유사한 사용자의 유사한 항목에 대한 known ratings
+
   SUIR = SUIRk,m = {xa,b | ua∈Su(uk) , ib∈Si(im), a≠k, b≠m}.
 
-SUR(similar user ratings) ∝ 유사한 사용자의 
++ SUR(similar user ratings) ∝ 유사한 사용자의 
+
 SIR(similar item ratings) ∝ 사용자 k의 유사 항목에 대한 known ratings
 
-λ : SUR과 SIR 를 interpolation (0…1, 0:SIR에 종속, 1:SIR에 종속)
++ λ : SUR과 SIR 를 interpolation (0…1, 0:SIR에 종속, 1:SIR에 종속)
+
 δ : SUIR과 SUR·SIR를 interpolation (0…1, 0: SUR·SIR에 종속, 1:SUIR에 종속)
 
 
@@ -130,24 +113,20 @@ SIR(similar item ratings) ∝ 사용자 k의 유사 항목에 대한 known ratin
 
 # Conclusion
 데이터 밀도가 낮은 경우 유사한 사용자 혹은 유사한 항목만으로 평가하는 것은 예측 성능이 낮다. 
+
 이를 보안하기 위하여 유사한 사용자의 유사한 항목을 결합하여 평가를 예측하기 위한 방식을 제안하고 성능이 향상되는 것을 확인했다. 
+
 본 논문에서 제시한 방식은 특히 희소한 데이터만 이용할 수 있는 경우에 추천 시스템의 품질을 개선하는데 효과적이다.
 
 <br>
 
 # References
-+ aaa
++ 
 
 <br>
 
-> 링크 넣기 예시
 
-[SFP paper](https://www.sciencedirect.com/science/article/pii/S0031320319303164)
+[SUIR paper](https://www.researchgate.net/publication/221299518_Unifying_user-based_and_item-based_collaborative_filtering_approaches_by_similarity_fusion)
 
-<br>
-
-> 수식 예시
-
-$$\sum_{n=1}^{10} \sum_{k=1}^{5} n \times k $$
 
 <br>
