@@ -9,7 +9,6 @@
     + Journal: SIGIR(Special Interest Group on Information Retrieval) 
     [SUIR_paper](https://www.researchgate.net/publication/221299518_Unifying_user-based_and_item-based_collaborative_filtering_approaches_by_similarity_fusion)
 
-</div>
 
 ## Topic
 + Recommendation System, (collaborative filtering) <br>
