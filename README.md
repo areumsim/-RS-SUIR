@@ -2,6 +2,7 @@
 # Unifying user-based and item-based collaborative filtering approaches by similarity fusion
 
 <br>
+<br>
 
 >Title: Unifying user-based and item-based collaborative filtering approaches by similarity fusion <br> 
 >Authors: Jun Wang, Arjen P. de Vries, Marcel J.T. Reinders1 <br>
@@ -9,6 +10,8 @@
 >Journal: SIGIR(Special Interest Group on Information Retrieval) <br>
 >[SUIR_paper](http:///www.researchgate.net/publication/221299518_Unifying_user-based_and_item-based_collaborative_filtering_approaches_by_similarity_fusion)
 
+<br>
+<br>
     
     
 ## Topic
@@ -22,7 +25,8 @@
 <br>
 
 ## Motivation
-+ 유사 사용자와 유사 아이템을 결합하여 ‘not-so-similar’ 에 대해 예측 
++ 유사 사용자와 유사 아이템을 결합하여 ‘not-so-similar’ 에 대해 예측 <br>
+
 
 <br>
 
@@ -46,7 +50,6 @@ SIR(similar item ratings) ∝ 사용자 k의 유사 항목에 대한 known ratin
 ![image](https://user-images.githubusercontent.com/31869418/73611855-b6a39a00-4629-11ea-8fde-1c7434962649.png) <br>
 
 
-
 <br>
 
 ## Conclusion
@@ -60,9 +63,5 @@ SIR(similar item ratings) ∝ 사용자 k의 유사 항목에 대한 known ratin
 + 
 
 <br>
-
-
-
-
 
 <br>
