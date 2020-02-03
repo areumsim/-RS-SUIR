@@ -7,11 +7,9 @@
     Authors: Jun Wang, Arjen P. de Vries, Marcel J.T. Reinders1 <br>
     Year: 2006  <br>
     Journal: SIGIR(Special Interest Group on Information Retrieval) 
-    [SUIR_paper](https://www.researchgate.net/publication/221299518_Unifying_user-based_and_item-based_collaborative_filtering_approaches_by_similarity_fusion)
-    [Google](https://google.com)
-    [Google](https://www.researchgate.net/publication/221299518_Unifying_user-based_and_item-based_collaborative_filtering_approaches_by_similarity_fusio/)
+    [SUIR_paper] (https://www.researchgate.net/publication/221299518_Unifying_user-based_and_item-based_collaborative_filtering_approaches_by_similarity_fusion)
 
-
+    
 ## Topic
 + Recommendation System, (collaborative filtering) <br>
 
