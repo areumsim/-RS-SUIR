@@ -5,8 +5,8 @@
 
 >Title: Unifying user-based and item-based collaborative filtering approaches by similarity fusion <br> 
 >Authors: Jun Wang, Arjen P. de Vries, Marcel J.T. Reinders1 <br>
->Year: 2006  <br>
->Journal: SIGIR(Special Interest Group on Information Retrieval) 
+>Year: 2006 <br>
+>Journal: SIGIR(Special Interest Group on Information Retrieval) <br>
 >[SUIR_paper](http:///www.researchgate.net/publication/221299518_Unifying_user-based_and_item-based_collaborative_filtering_approaches_by_similarity_fusion)
 
     
