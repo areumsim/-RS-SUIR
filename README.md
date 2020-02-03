@@ -9,6 +9,9 @@
 >Year: 2006 <br>
 >Journal: SIGIR(Special Interest Group on Information Retrieval) <br>
 >[SUIR_paper](http:///www.researchgate.net/publication/221299518_Unifying_user-based_and_item-based_collaborative_filtering_approaches_by_similarity_fusion)
+><br>
+><br>
+>Read Period : 19.08.02 - 19.08.16
 
 <br>
 <br>
