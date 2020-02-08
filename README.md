@@ -1,4 +1,4 @@
-### [RS] SUIR
+e### [RS] SUIR
 # Unifying user-based and item-based collaborative filtering approaches by similarity fusion
 
 <br>
@@ -75,8 +75,8 @@ SIR(similar item ratings) ∝ 사용자 k의 유사 항목에 대한 known ratin
 siMat ( 671 x 671 ) <br>
 - siMat1.csv : Cos <br>
 - siMat2.csv : Pearson <br>
-- siMat3.csv : CPC <br>
-- siMat4.csv : MSD <br>
+- siMat3.csv : CPC (Constrained Pearson Correlation) <br>
+- siMat4.csv : MSD (Mean Squared Distance) <br>
 - siMat5.csv : Jaccard <br>
 - siMat6.csv : aJaccard <br>
 
