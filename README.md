@@ -68,3 +68,16 @@ SIR(similar item ratings) ∝ 사용자 k의 유사 항목에 대한 known ratin
 <br>
 
 <br>
+
+---
+
+### Data : User 671 x  Movie 906
+siMat ( 671 x 671 )
+    siMat1.csv : Cos
+    siMat2.csv : Pearson
+    siMat3.csv : CPC
+    siMat4.csv : MSD
+    siMat5.csv : Jaccard
+    siMat6.csv : aJaccard
+
+
